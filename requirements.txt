@@ -1,0 +1,3 @@
+openai==1.55.3
+python-dotenv
+deap==1.4
